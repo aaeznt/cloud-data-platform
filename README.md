@@ -3,6 +3,7 @@
 ### This project includes Terraform code and a Buildspec file that can be used to provision and modify AWS cloud resources. We have set up a CI/CD pipeline that is used to build and apply this terraform project using a solution similar to the following diagram:
 
 ![image](https://user-images.githubusercontent.com/66182966/123552884-f77be180-d73d-11eb-989d-f91cfa80059f.png)
+- Image source: https://aws.amazon.com/blogs/security/how-use-ci-cd-deploy-configure-aws-security-services-terraform/
 
 The deployment steps are as follows:
 
