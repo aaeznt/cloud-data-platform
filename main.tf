@@ -22,3 +22,4 @@ resource "aws_instance" "test_app_server" {
     Name = "june-26-2021-test"
   }
 }
+# cool
